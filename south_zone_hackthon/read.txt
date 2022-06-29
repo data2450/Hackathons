@@ -1,1 +1,2 @@
-
+ipython notebook includes the notebook
+other file is the presentation
