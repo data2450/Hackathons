@@ -1,2 +1,2 @@
-# machine_hack
+# hackathons
 competion_notebooks
